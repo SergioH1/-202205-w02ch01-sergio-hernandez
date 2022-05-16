@@ -2,6 +2,7 @@
     "name": "ergioh1-202205-w02ch01-sergio-hernandez",
     "version": "1.0.0",
     "description": "",
+    "type": "module",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -29,4 +30,3 @@
         "singleQuote": true
     }
 }
-
